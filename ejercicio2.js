@@ -5,5 +5,5 @@ function frase (){
         if (f[i] == " ")
         p++;
     }
-    alert(`La frase tiene ${p} palabras`);
+    alert(`La frase introducida tiene ${p} palabras`);
 }

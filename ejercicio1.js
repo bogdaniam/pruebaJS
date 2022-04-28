@@ -7,10 +7,7 @@ function numero(){
     let p2 = n2 % 2;
     let m1 = n1 % 7;
     let m2 = n2 % 7;
-    console.log(p1);
-    console.log(p2);
-    console.log(m1);
-    console.log(m2);
+   
 
     if (p1 == 0  && m1 == 0 && p2 == 0 && m2 == 0){
         alert("Los dos numeros son pares y multiplos de 7");
